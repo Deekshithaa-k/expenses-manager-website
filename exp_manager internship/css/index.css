@@ -1,0 +1,31 @@
+ul{
+	list-style-type: none;
+}
+
+#login{
+	margin-top: 300px;
+}
+#login, #register:hover{
+	background-color: #a83246;
+	color: white;
+	transition: 0.9s;
+	padding: 20px 20px;
+}
+#register, #login:hover{
+	background-color:#a84832;
+	color: white;
+	transition: 0.9s;
+	padding: 20px 20px;
+}
+#exampleModal .modal-header,
+#exampleModal1 .modal-header{
+	background-color:#3256a8 ;
+	color: white;
+
+}
+
+body{
+	background-image: url("https://thumbs.dreamstime.com/b/silhouette-man-prayer-pose-man-symbol-rupee-currency-businessman-prayer-pose-127183386.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
